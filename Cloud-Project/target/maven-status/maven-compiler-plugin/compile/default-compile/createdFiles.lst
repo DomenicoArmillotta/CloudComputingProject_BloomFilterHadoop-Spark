@@ -1,0 +1,9 @@
+it\unipi\hadoop\BloomFilter$IntArrayWritable.class
+it\unipi\hadoop\CountingMR$NewReducer.class
+it\unipi\hadoop\TestBloom.class
+it\unipi\hadoop\CountingMR.class
+it\unipi\hadoop\CountingMR$NewMapper.class
+it\unipi\hadoop\Driver.class
+it\unipi\hadoop\BloomFilter$BloomFilterReducer.class
+it\unipi\hadoop\BloomFilter.class
+it\unipi\hadoop\BloomFilter$BloomFilterMapper.class
